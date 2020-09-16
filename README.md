@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-大佬说，这题不是直接扫一遍就过了么？？？
-
-我：。。。。。
+![funny-coding-gif](https://github.com/jsycdut/photos/blob/master/funny/fancy-coding.gif?raw=true)
 
 ![jsycdut's github stats](https://github-readme-stats.vercel.app/api?username=jsycdut&show_icons=true&theme=buefy)
