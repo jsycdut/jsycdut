@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github.com/jsycdut/photos/blob/master/funny/fancy-coding.gif?raw=true"/>
 </p>
+<p align="center">
+<img width=180 src="https://raw.githubusercontent.com/jsycdut/photos/master/contact/wechat.jpg"/>
+</p>
 
 <!-- ![funny-coding-gif](https://github.com/jsycdut/photos/blob/master/funny/fancy-coding.gif?raw=true)  -->
 
