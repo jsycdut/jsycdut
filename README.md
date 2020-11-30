@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+you may need proxy to see pictures below
 <p align="center">
 <img src="https://github.com/jsycdut/photos/blob/master/funny/fancy-coding.gif?raw=true"/>
 </p>
