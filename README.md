@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p align="center">
 <img src="./imgs/dance-03.gif"/>
 </p>
-
+-->
+![](./imgs/dance-03.gif)
 - 🔭 I’m currently working on distributed graph computing
 - 🌱 I’m currently learning emacs and many middlewares
 - 💬 Ask me about vim, java, datastructures...
