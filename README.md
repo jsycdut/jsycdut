@@ -12,13 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-you may need proxy to see pictures below
 <p align="center">
-<img src="https://github.com/jsycdut/photos/blob/master/funny/fancy-coding.gif?raw=true"/>
+<img src="./imgs/dance-03.gif"/>
 </p>
+
+- 🔭 I’m currently working on distributed graph computing
+- 🌱 I’m currently learning emacs and many middlewares
+- 💬 Ask me about vim, java, datastructures...
+- 📫 How to reach me: jsycdut@gmail.com
+- 😄 Pronouns: me, a nerd
+- ⚡ Fun fact: I am a poor and interesting programmer
+
+<!--
 <p align="center">
 <img width=180 src="https://raw.githubusercontent.com/jsycdut/photos/master/contact/wechat.jpg"/>
-</p>
+</p>-->
 
 <!-- ![funny-coding-gif](https://github.com/jsycdut/photos/blob/master/funny/fancy-coding.gif?raw=true)  -->
 
