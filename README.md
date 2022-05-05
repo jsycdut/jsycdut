@@ -1,1 +1,1 @@
-make it happen, believe yourself
+you are far more than yourself
