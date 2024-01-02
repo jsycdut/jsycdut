@@ -1,1 +1,1 @@
-you are far more than yourself
+don't be afraid of being the one you dreamed for
