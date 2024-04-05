@@ -1,1 +1,1 @@
-don't be afraid
+All Greatness Comes from Daring to Begin.
